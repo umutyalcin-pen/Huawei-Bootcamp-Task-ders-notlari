@@ -1,2 +1,1 @@
-# Huawei-Bootcamp-Task-ders-notlar-
-Herhangi bir telif hakkını ihlal ediyorsa kaldırabilirim 
+Huwaei Bootcamp Taskları sırasında işlenen derslerden çıkarılan notlardır. Ders eklendikçe commit atacağım.
