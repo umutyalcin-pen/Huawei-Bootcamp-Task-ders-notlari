@@ -12,7 +12,7 @@ Bu repository Huawei Bootcamp sırasında işlenen derslerden çıkardığım no
 
 Not
 
-Bu notlar resmi Huawei materyali değildir; kişisel çalışma ve tekrar amacıyla hazırlanmıştır.
+Bu notlar resmi Huawei materyali değildir, kişisel çalışma ve tekrar amacıyla hazırlanmıştır.
 
 Telif ve Kaldırma Talebi
 
